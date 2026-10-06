@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+# reference pictures/videos are personal data and machine-specific; keep the folder only
+refs/*
+!refs/.gitkeep
+_old_refs/
